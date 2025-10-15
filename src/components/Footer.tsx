@@ -10,7 +10,7 @@ const Footer = () => {
          
           
           <div className="text-muted-foreground text-sm text">
-            © {currentYear} Ankit Nayka. All rights reserved...yexx
+            © {currentYear} Ankit Nayka. All rights reserved
           </div>
         </div>
       </div>
